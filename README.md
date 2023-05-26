@@ -6,7 +6,8 @@ A web window where you can pick your starting and ending location, and the progr
 
 ## Demo 
 
-You can run the project at : 
+You can run the project [here](https://muudar.github.io/knights-travails/)
+This site was built using [GitHub Pages](https://pages.github.com/). 
 
 ## Algorithms:
 
