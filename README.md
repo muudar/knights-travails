@@ -10,11 +10,13 @@ You can run the project [here](https://muudar.github.io/knights-travails/)
 
 This site was built using [GitHub Pages](https://pages.github.com/). 
 
-## Goal
+## Algorithms:
 
-The goal was to build a project using TDD (Test Driven Development) instead of simple manual testing as in previous projects. 
+This project represents the chessboard as a **directed graph** . Every move costs the same so we can assume all edges have a weight of 1.
 
-All the factory functions were tested before building with examples.
+I used dijkstra's algorithm to find the shortest path here, which runs in **O(V + E l o g V)** , However it is not the only algorithm you have to use.
+
+It was possible to use BFS as it finds the shortest solution in **Undirected Unweighted graphs**. DFS , however, would not find the shortest path.
 
 ## Technologies: 
 
